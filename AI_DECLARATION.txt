@@ -1,0 +1,66 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name:Tabia Amir
+Student ID:24241265
+Assignment:02
+Date:24/02/2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[/] ChatGPT
+[ ] GitHub Copilot
+[ ] Google Gemini
+[ ] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[/] Learning/understanding concepts
+[ ] Debugging my code
+[/] Generating code snippets
+[ ] Writing text content
+[ ] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+Briefly describe what you used AI for and how:
+In my previous assignment I learnt basics of html and css. So I didn't need much help in those but as javascript was not used much in previous assignment and I did not work with it before, i needed help in jss. So I used AI to understand the connection, the code blocks and basics also. I did not blindly follow whatever was given. I asked questions cross checked and made myself aware with the conecpts too. 
+
+
+
+
+
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: _______script.js__________ Section: _________jss________
+File: _________________ Section: _________________
+File: _________________ Section: _________________
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: ________Tabia_______________
+Date: ____24241265_______________________
+
+============================================================
+Save as: docs/AI_Declaration.txt
+============================================================
