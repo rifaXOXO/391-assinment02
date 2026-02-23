@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSE 391 Assignment 2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Meowssignment</h1>
+    <section>
+        <h2>Fortune Generator</h2>
+	
+        <div id="fortuneBox">
+            <p id="fortuneText"></p>
+        </div>
+		<br>
+		<br>
+        <div>
+            <button onclick="changeStyle(1)">Style 1</button>
+            <button onclick="changeStyle(2)">Style 2</button>
+            <button onclick="changeStyle(3)">Style 3</button>
+            <button onclick="changeStyle(4)">Style 4</button>
+        </div>
+    </section>
+	<br>
+    <hr>
+	<br>
+    <!-- Stopwatch -->
+    <section>
+        <h2>Stopwatch</h2>
+
+        <h3 id="timer">0</h3>
+
+        <button onclick="startTimer()">Start</button>
+        <button onclick="stopTimer()">Stop</button>
+        <button onclick="resetTimer()">Reset</button>
+    </section>
+	<br>
+    <hr>
+	<br>
+    <!-- To-Do List -->
+    <section>
+        <h2>To-Do List</h2>
+
+        <input type="text" id="taskInput" placeholder="Enter a task">
+        <button onclick="addTask()">Add Task</button>
+
+        <ul id="taskList"></ul>
+    </section>
+
+    <footer>
+        <p>© 2026</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
